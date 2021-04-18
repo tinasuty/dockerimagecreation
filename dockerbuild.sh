@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Author: Apoti Eri (Lionel)
+#Author: Tina Suty
 
 echo "Are you working on centos or ubuntu?"
 read plat
