@@ -37,7 +37,6 @@ read app
 echo -e "What is the name of that file or directory you want to copy into the image? NB: Please make sure that you are running this script in                                                                                                                                                                                                                                                                                                                                 the same directory where that file or folder is found\n"
 read c
 
-
 if [ ${base} = centos ]
 then
 sleep 3
